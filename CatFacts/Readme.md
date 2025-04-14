@@ -30,12 +30,6 @@ This is a simple and fun web project that fetches random cat facts using an API.
 - JavaScript (ES6+)
 - [Cat Fact API](https://catfact.ninja/)
 
----
-
-## 🖼️ Project Preview
-
-![Screenshot of the app](screenshot.png)  
-*Note: Replace with a screenshot of your project if you'd like*
 
 ---
 
